@@ -47,6 +47,7 @@ void main() async {
 }
 
 class MyApp extends StatelessWidget {
+  ////////////////////////////////////// test
   late final bool? isDark;
   late final Widget startWidget;
   MyApp(this.isDark, this.startWidget);
